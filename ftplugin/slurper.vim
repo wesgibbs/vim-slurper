@@ -13,7 +13,7 @@ highlight SpellCap none
 
 nmap <buffer> <C-h> 
       \o
-      \<C-D>==
+      \<C-D>==============================
       \<CR><C-D>story_type:
       \<CR><C-T>chore
       \<CR><C-D>name:
@@ -32,7 +32,7 @@ imap <buffer> <C-j> <C-O><C-j>
 
 nmap <buffer> <C-j> 
       \o
-      \<C-D>==
+      \<C-D>==============================
       \<CR><C-D>story_type:
       \<CR><C-T>feature
       \<CR><C-D>name:
@@ -55,7 +55,7 @@ imap <buffer> <C-j> <C-O><C-j>
 
 nmap <buffer> <C-k> 
       \o
-      \<C-D>==
+      \<C-D>==============================
       \<CR><C-D>story_type:
       \<CR><C-T>release
       \<CR><C-D>name:
@@ -74,7 +74,7 @@ imap <buffer> <C-k> <C-O><C-k>
 
 nmap <buffer> <C-l> 
       \o
-      \<C-D>==
+      \<C-D>==============================
       \<CR><C-D>story_type:
       \<CR><C-T>bug
       \<CR><C-D>name:
