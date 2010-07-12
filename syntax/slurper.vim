@@ -10,7 +10,7 @@ endif
 
 syn case match
 
-syn match slurperDelimiter "^=="
+syn match slurperDelimiter "^=============================="
 
 syn match slurperStoryType "^story_type:"
 
